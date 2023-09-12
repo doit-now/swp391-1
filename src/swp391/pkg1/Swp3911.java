@@ -16,6 +16,7 @@ public class Swp3911 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Welcome to Java, GitHub");
+        System.out.println("Học GitHub và trường 3 chữ cũng nhàn!!!");
     }
     
 }
